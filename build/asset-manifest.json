@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/difervi/Calculator/static/css/main.954837fd.css",
+    "main.js": "/difervi/Calculator/static/js/main.d807eae9.js",
+    "static/media/logo-removebg-preview.png": "/difervi/Calculator/static/media/logo-removebg-preview.13af340a51882295dfb7.png",
+    "index.html": "/difervi/Calculator/index.html",
+    "main.954837fd.css.map": "/difervi/Calculator/static/css/main.954837fd.css.map",
+    "main.d807eae9.js.map": "/difervi/Calculator/static/js/main.d807eae9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.954837fd.css",
+    "static/js/main.d807eae9.js"
+  ]
+}
